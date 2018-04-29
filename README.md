@@ -1,5 +1,7 @@
 # Fourmiale
 
+[https://github.com/BastienBalaud/aco-pants](https://github.com/BastienBalaud/aco-pants)
+
 Projet scolaire, de recherche de chemin le plus court pour parcourir les pubs de Grande Bretagne en utilisant algorithmes des colonies de fourmis. Cette version se limite au 208 pubs de Londres ce qui nécessite environ 30 secondes de calcul. Le temps de calcul étant exponentiel.
 
 ## Structure de données
